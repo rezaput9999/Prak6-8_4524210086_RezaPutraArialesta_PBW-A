@@ -157,7 +157,6 @@ Pastikan perangkat telah memiliki:
 
 10. Buka aplikasi pada `http://127.0.0.1:8000` dan akses admin panel melalui `http://127.0.0.1:8000/admin`.
 
-> Jika menggunakan database selain SQLite, sesuaikan `DB_CONNECTION` dan konfigurasi database lainnya pada file `.env` sebelum menjalankan migration.
 
 ## Akun Login
 
@@ -232,25 +231,29 @@ Simpan screenshot ke folder `docs/screenshots/` di repository. Gunakan nama file
 
 ### 1. Admin Panel
 
-![Admin panel](docs/screenshots/01-admin-panel.png)
+<img width="1603" height="556" alt="image" src="https://github.com/user-attachments/assets/08f84a1a-3cd2-4543-94c0-78e33d617dcd" />
+
 
 ### 2. Daftar Buku dengan Data Seeder
 
-![Book list](docs/screenshots/02-book-list.png)
+<img width="1585" height="570" alt="image" src="https://github.com/user-attachments/assets/7759f76f-fd9a-47cb-bf0e-a1ba264634b4" />
+
 
 ### 3. Form Create Book
 
-![Create book form](docs/screenshots/03-create-book.png)
+<img width="1373" height="726" alt="image" src="https://github.com/user-attachments/assets/4290b5b1-df6e-43ef-b287-5a75307262ca" />
+
 
 ### 4. Hasil Pencarian
 
-![Book search result](docs/screenshots/04-book-search.png)
+<img width="1607" height="625" alt="image" src="https://github.com/user-attachments/assets/c094b400-0af1-4378-9acd-005601687d15" />
+
 
 ### 5. Filter Aktif
 
-![Active book filter](docs/screenshots/05-active-filter.png)
+<img width="1605" height="806" alt="image" src="https://github.com/user-attachments/assets/6fefd541-6154-4a78-8f5d-b6a010bdce1b" />
 
-> Tambahkan file screenshot dengan nama yang sesuai pada folder `docs/screenshots/`. Jika belum ada, gambar tidak akan tampil di GitHub.
+
 
 ## Tugas 2 — Kustomisasi dan Pengembangan
 
@@ -357,7 +360,6 @@ CRUD manual lebih tepat dipertimbangkan ketika aplikasi membutuhkan pengalaman p
 
 ### 2. Refleksi Pembelajaran
 
-> Sesuaikan bagian refleksi ini dengan pengalaman praktikum yang benar-benar dialami.
 
 **Hal yang dipelajari**
 
